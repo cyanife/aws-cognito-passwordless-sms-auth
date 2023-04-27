@@ -1,0 +1,7 @@
+{
+  "name": "kyoya-sms-libs",
+  "version": "1.0.0",
+  "dependencies": {
+    "google-libphonenumber": "^3.2.32"
+  }
+}
